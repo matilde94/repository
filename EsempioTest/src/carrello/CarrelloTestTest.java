@@ -12,6 +12,8 @@ public class CarrelloTestTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
+		
+		System.out.println("change");
 	}
 
 	@AfterClass
